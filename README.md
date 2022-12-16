@@ -382,6 +382,7 @@ To understand about Kubernetes Security you first need to understand the basics 
 
 [KICS - Keeping Infrastructure as Code Secure](https://github.com/Checkmarx/kics)
 
+[Constellation - Always Encrypted Kubernetes](https://github.com/edgelesssys/constellation)
 
 ## Papers
 
